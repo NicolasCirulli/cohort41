@@ -140,7 +140,3 @@ console.log( data )
 
 console.log( template )
 
-
-
-
-
